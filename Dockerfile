@@ -1,5 +1,5 @@
 # Use la imagen base oficial de .NET SDK (para compilación)
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build-env
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build-env
 WORKDIR /app
 
 # Copie los archivos .csproj y restaure las dependencias
