@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "45Y6Fs97v8EiI9B+EkEVCxLO4KwQ5g/1YxeoiQFexQE=",
+  "Source": "simple-api-dockerhub",
+  "BasePath": "_content/simple-api-dockerhub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
